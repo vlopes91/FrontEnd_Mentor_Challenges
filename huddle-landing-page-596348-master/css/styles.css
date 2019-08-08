@@ -1,0 +1,199 @@
+/* Global */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: hsl(208, 11%, 55%);
+    background-color: hsl(214, 64%, 98%);
+}
+
+h1,h2,h3 {
+    font-family: 'Poppins', sans-serif;
+    color: hsl(192, 100%, 9%)
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.imgmedia {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Header */
+
+header{
+    
+}
+.huddlelogo {
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.tryitfree {
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom:100px; 
+    border: 1px;
+    border-radius: 5px;
+    border-style: outset;
+    width: 200px;
+    height: 39px;
+    font-weight: 700;
+    background-color: whitesmoke;
+    color:hsl(208, 11%, 55%);
+}
+
+.getstarted {
+    margin-bottom: 20px;
+    border: 1px;
+    border-radius: 5px;
+    border-style: outset;
+    width: 250px;
+    height: 39px;
+    font-weight: 700;
+    color:hsl(214, 64%, 98%);
+    background-color:hsl(322, 100%, 66%);
+}
+
+/* Top Section */
+
+#mockup img {
+    width: 50%;   
+}
+
+#mockup h3,p {
+   width: 50%;
+   margin: auto;
+   margin-bottom: 20px;
+} 
+
+#usersdiv img {
+    width: 40%;
+    float: left;
+    margin: 20% 5% 10% 5%;
+}
+
+article {
+    margin: 0;
+    clear: right;
+}
+
+aside {
+    width: 40%;
+    float: left;
+    margin-top: 20%;
+    padding: 5px;
+}
+
+aside h3 {
+    width: 80%;
+    text-align: left;
+    line-height: 1.5;
+}
+aside p {
+    width: 100%;
+    font-size: 16px;
+    text-align: left;
+    margin: 0;
+}
+
+#tryit {
+    margin-top: 60%;
+    margin-bottom: 20%;
+    
+}
+
+.tryitsquare {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 2px 2px 8px  #cccbcb;
+}
+.tryitsquare p {
+    width: 100%;
+    font-size: 16px;
+}
+
+/* Bottom Section */
+
+#socialmedia {
+    float: left;
+    text-align: left;
+    width: 30%;
+    height: 100%;
+    background-color: grey;
+}
+
+#socialmedia p{
+    width: 100%;
+    margin: 0;
+    font-size: 12px;
+}
+
+#content {
+    float: left;
+    width: 30%;
+    background-color: grey;
+}
+
+#subscribe {
+    padding: 10px;
+    float: left;
+    text-align: left;
+    width:30%;
+    
+}
+
+#subscribe p {
+    font-size: 12px;
+    width: 100%;
+    background-color: grey;
+}
+
+#subscribe input {
+    width: 100%;
+    height: 39px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+#subscribe button {
+    width: 50%;
+    float: right;
+}
+
+table {
+    width: 100%;
+}
+
+tr,td {
+ padding: 10px;
+ text-align: left;
+ font-size: 12px;
+ font-weight: 700;
+}
+
+footer{
+    width: 77%;
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20%;
+    background-color: grey;
+}
+
+footer p {
+    font-size: 11px;
+}
